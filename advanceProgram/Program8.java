@@ -1,3 +1,6 @@
+
+import java.util.*;
+
 public class Program8 {
 
     void mergeIntervals(int arr[][]){
@@ -16,7 +19,7 @@ public class Program8 {
 
         System.out.println(curr[0]+" "+curr[1]);
     }
-    
+
     public static void main(String[] args) {
         Program8 p = new Program8();
 
